@@ -15,6 +15,10 @@
 }
 
 
+#projects {
+	background: url(images/ecom.jpg);
+}
+
 .primary-color-background {
 	background-color: #F15025;
 }
@@ -29,6 +33,13 @@
 }
 
 
+h5, h3 {
+ color: goldenrod;
+}
+
+.text-uppercase {
+	color: black;
+}
 
 .title-color {
 	color: #353531;
@@ -45,5 +56,16 @@
 .primary-color {
 	color: #f15025
 }
+
+
+
+
+
+
+
+
+
+
+
 
 
